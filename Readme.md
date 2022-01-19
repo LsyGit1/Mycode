@@ -62,3 +62,32 @@
 >> 第二成引用
 >>> 第三层引用
 >>>> 第四层引用
+
+
+## Markdown 插入代码块
+
+```c
+	#include<stdio.h>
+	
+	ina main()
+	{
+		printf("C output..\n");
+		return 0;
+	}
+```
+
+```cpp
+	#include<iostream>
+	using namespace std;
+
+	ina main()
+	{
+		cout << "c++ touput"<< ednl;
+	}
+```
+
+``` bash
+	sudo apt-get install pip3
+	echo "数据回显"
+	netstate -apn
+```
