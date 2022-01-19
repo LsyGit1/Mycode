@@ -108,7 +108,7 @@
 
 ## 图片自定义插入
 
-![背景图片](https://s2.loli.net/2022/01/19/ClM4Yvsp9Bcaw1j.png)
+![123](https://s2.loli.net/2022/01/19/ClM4Yvsp9Bcaw1j.png)
 
 如果将readme推到云端，图片可以显示吗？
 
